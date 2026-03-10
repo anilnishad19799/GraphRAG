@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+graphrag
+lancedb
+pyarrow
+openai
+python-dotenv

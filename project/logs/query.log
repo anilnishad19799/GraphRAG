@@ -1,0 +1,50 @@
+2026-02-16 23:56:24.0784 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-small: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 0.8948848247528076,
+  "compute_duration_per_response_seconds": 0.8948848247528076,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 9,
+  "total_tokens": 9,
+  "tokens_per_response": 9.0,
+  "cost_per_response": 0.0
+}
+2026-02-16 23:56:24.0785 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-4o-mini: {
+  "failure_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
+2026-02-18 23:02:42.0479 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/text-embedding-3-small: {
+  "attempted_request_count": 1,
+  "successful_response_count": 1,
+  "failed_response_count": 0,
+  "failure_rate": 0.0,
+  "requests_with_retries": 0,
+  "retries": 0,
+  "retry_rate": 0.0,
+  "compute_duration_seconds": 3.4200775623321533,
+  "compute_duration_per_response_seconds": 3.4200775623321533,
+  "cache_hit_rate": 0.0,
+  "streaming_responses": 0,
+  "responses_with_tokens": 1,
+  "prompt_tokens": 4,
+  "total_tokens": 4,
+  "tokens_per_response": 4.0,
+  "cost_per_response": 0.0
+}
+2026-02-18 23:02:42.0480 - INFO - graphrag_llm.metrics.log_metrics_writer - Metrics for openai/gpt-4o-mini: {
+  "failure_rate": 0.0,
+  "compute_duration_per_response_seconds": 0.0,
+  "cache_hit_rate": 0.0,
+  "tokens_per_response": 0.0,
+  "cost_per_response": 0.0
+}
